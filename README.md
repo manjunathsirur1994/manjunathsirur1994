@@ -1,3 +1,4 @@
+
 # Manjunath Sirur
 
 **Data Science Lead at ZapCom.ai**   
@@ -16,14 +17,19 @@ Over 8 years of comprehensive experience in the IT industry, specializing in dev
 - **Data Processing:** Data cleansing, missing values imputation, feature engineering, EDA, and visualization using Matplotlib, Seaborn, and Plotly
 -     Pipeline and GridSearchCV: Pipeline | Pipeline Chaining | Composite estimators, GridSearchCV,
 ---------
-- **Regression Models:** Linear, Multiple LR, Ridge, Lasso, ElasticNet, Polynomial, and LR with ANN.
-- **Classification Models:** Logistic Regression, KNN.
-- **Decision Trees:** Sklearn DT, Cost-Complexity Pruning, 
-- **OpenAI Integration:** API calling for chat completions, function calling, and chatbot building.
-- **Langchain:** Experience with zero-shot and few-shot prompting for various NLP tasks.
+- **Regression Models:** 
+Linear, Multiple LR, Ridge, Lasso, ElasticNet, Polynomial, and LR with ANN.
+- **Classification Models:** 
+Logistic Regression, KNN.
+- **Decision Trees:** 
+Sklearn DT, Cost-Complexity Pruning, 
+- **OpenAI Integration:** 
+API calling for chat completions, function calling, and chatbot building.
+- **Langchain:** 
+Experience with zero-shot and few-shot prompting for various NLP tasks.
 
-- **LLMs** <br>
-    Text preprocessing: Text tokenization | Tokenizers | Byte Pair encoding technique | TikTokens | building Tokenizers and vocab from scratch | Data sampling with sliding window | Dataloaders with PyTorch | Creating token embeddings (lookup embedding from training corpus) | Encoding word positions | Embeddings for LLMs. 
+- **LLMs** 
+Text preprocessing: Text tokenization | Tokenizers | Byte Pair encoding technique | TikTokens | building Tokenizers and vocab from scratch | Data sampling with sliding window | Dataloaders with PyTorch | Creating token embeddings (lookup embedding from training corpus) | Encoding word positions | Embeddings for LLMs. 
 
 ---
 
