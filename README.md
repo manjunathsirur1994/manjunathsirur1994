@@ -22,8 +22,7 @@ Over 8 years of comprehensive experience in the IT industry, specializing in dev
 - **OpenAI Integration:** API calling for chat completions, function calling, and chatbot building.
 - **Langchain:** Experience with zero-shot and few-shot prompting for various NLP tasks.
 
-- **LLMs**
-
+- **LLMs** <br>
     Text preprocessing: Text tokenization | Tokenizers | Byte Pair encoding technique | TikTokens | building Tokenizers and vocab from scratch | Data sampling with sliding window | Dataloaders with PyTorch | Creating token embeddings (lookup embedding from training corpus) | Encoding word positions | Embeddings for LLMs. 
 
 ---
