@@ -24,7 +24,7 @@ Over 8 years of comprehensive experience in the IT industry, specializing in dev
 
 - **LLMs**
 
-Text preprocessing: Text tokenization | Tokenizers | Byte Pair encoding technique | TikTokens | building Tokenizers and vocab from scratch | Data sampling with sliding window | Dataloaders with PyTorch | Creating token embeddings (lookup embedding from training corpus) | Encoding word positions | Embeddings for LLMs. 
+    Text preprocessing: Text tokenization | Tokenizers | Byte Pair encoding technique | TikTokens | building Tokenizers and vocab from scratch | Data sampling with sliding window | Dataloaders with PyTorch | Creating token embeddings (lookup embedding from training corpus) | Encoding word positions | Embeddings for LLMs. 
 
 ---
 
