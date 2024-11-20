@@ -14,9 +14,8 @@ Over 8 years of comprehensive experience in the IT industry, specializing in dev
 
 [Please scroll and view the scrollable text]
 
-- **Data Processing:** Data cleansing, missing values imputation, feature engineering, EDA, and visualization using Matplotlib, Seaborn, and Plotly
--     Pipeline and GridSearchCV: Pipeline | Pipeline Chaining | Composite estimators, GridSearchCV,
----------
+- **Data Processing:** <br> Data cleansing, missing values imputation, feature engineering, EDA, and visualization using Matplotlib, Seaborn, and Plotly.
+- **Pipeline and GridSearchCV:** <br> Pipeline | Pipeline Chaining | Composite estimators, GridSearchCV,
 - **Regression Models:** <br>
 Linear, Multiple LR, Ridge, Lasso, ElasticNet, Polynomial, and LR with ANN.
 - **Classification Models:** <br>
