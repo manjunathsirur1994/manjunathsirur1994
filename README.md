@@ -1,3 +1,6 @@
+![Hello, I'm Aaliyah Igwe](https://github.com/user-attachments/assets/d7e346d8-4335-47b6-acff-40a7057480c9)
+
+
 
 # Manjunath Sirur
 
