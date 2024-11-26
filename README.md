@@ -1,17 +1,6 @@
 ![Hello, I'm Aaliyah Igwe](https://github.com/user-attachments/assets/d7e346d8-4335-47b6-acff-40a7057480c9)
 ![image](https://github.com/user-attachments/assets/7ccf2ebe-4696-42f6-a266-14dae9980076)
 
-
-
-# Manjunath Sirur
-
-**Data Science Lead at ZapCom.ai**   
-Over 8 years of comprehensive experience in the IT industry, specializing in developing and implementing advanced AI/ML and GenAI solutions across FinTech/BFSI, Home Services, and Healthcare domains.
-
-- **Email:** [manjunathsirur1994@gmail.com](mailto:manjunathsirur1994@gmail.com)
-- **GitHub:** [github.com/manjunathsirur1994](https://github.com/manjunathsirur1994)
-- **LinkedIn:** [linkedin.com/in/manjunathsirur](https://www.linkedin.com/in/manjunathsirur/)
-- **Phone:** +919738307623
 ---
 
 ## ⚙️ Skills - Machine Learning | Deep Learning | GenAI  
@@ -126,5 +115,10 @@ Integrated AI/ML features into EHR platforms for enhanced patient care recommend
 - **AWS Practitioner**  
 
 ---
+
+- **Email:** [manjunathsirur1994@gmail.com](mailto:manjunathsirur1994@gmail.com)
+- **GitHub:** [github.com/manjunathsirur1994](https://github.com/manjunathsirur1994)
+- **LinkedIn:** [linkedin.com/in/manjunathsirur](https://www.linkedin.com/in/manjunathsirur/)
+- **Phone:** +919738307623
 
 Thank you for visiting my profile! I'm open to collaborating on projects in AI/ML, GenAI, and more. Feel free to reach out!
