@@ -1,4 +1,5 @@
 ![Hello, I'm Aaliyah Igwe](https://github.com/user-attachments/assets/d7e346d8-4335-47b6-acff-40a7057480c9)
+![image](https://github.com/user-attachments/assets/7ccf2ebe-4696-42f6-a266-14dae9980076)
 
 
 
