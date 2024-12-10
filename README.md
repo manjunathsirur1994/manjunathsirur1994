@@ -21,7 +21,7 @@ Experience with zero-shot and few-shot prompting for various NLP tasks.
 - **LLMs** <br>
 Text preprocessing: Text tokenization | Tokenizers | Byte Pair encoding technique | TikTokens | building Tokenizers and vocab from scratch | Data sampling with sliding window | Dataloaders with PyTorch | Creating token embeddings (lookup embedding from training corpus) | Encoding word positions | Embeddings for LLMs. 
 
-- **NLP**
+- **NLP** <br>
 Tokenization | Stemming | Lemmatization | Stopwords | Parts of speech tagging | Named entity recognition | One-hot encoding |  Bag of words | 
 ---
 
